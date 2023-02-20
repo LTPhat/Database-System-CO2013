@@ -1,0 +1,6 @@
+A laboratory has several chemists who work on one or more projects. Chemists
+also may use certain types of equipment on each project. Attributes of chemists
+include employee id, name and phone number. The lab also wants to keep track of
+project id and start date, and equipment serial number and cost. The organization
+wishes to keep track of the date a specific piece of equipment was assigned to a
+specific chemist to work on a specific project.
