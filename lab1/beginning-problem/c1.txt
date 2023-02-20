@@ -1,0 +1,27 @@
+ The COMPANY database: keeps track of employees, 
+departments, and projects.
+
+ The company is organized into DEPARTMENTs. Each 
+department has a unique name, a unique number, and 
+a particular employee who manages the department. 
+We keep track of the start date when that employee 
+began managing the department. A department may 
+have several locations.
+
+ A department controls a number of PROJECTs, each of 
+which has a unique name, a unique number, and a 
+single location.
+
+
+ We store EMPLOYEE’s name, Social Security number, 
+address, salary, sex, and birth date. An employee is 
+assigned to one department, but may work on several 
+projects, which are not necessarily controlled by the 
+same department. We keep track of the current 
+number of hours per week that an employee works on 
+each project. We also keep track of the direct 
+supervisor of each employee.
+
+ We want to keep track of the DEPENDENTs of each 
+employee, including first name, sex, birth date, and 
+relationship to the employee.
